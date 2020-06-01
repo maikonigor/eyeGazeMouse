@@ -1,0 +1,76 @@
+[0206/100541:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[0206/100541:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0206/100541:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0206/100552:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0206/100552:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0206/100552:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0206/100553:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0206/100554:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0206/100554:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0206/101027:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),20", source: about:docKey-14 (0)
+[0206/101027:INFO:CONSOLE(20)] "Uncaught SyntaxError: Unexpected token )", source:  (20)
+[0206/101042:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),20", source: about:docKey-15 (0)
+[0206/101042:INFO:CONSOLE(20)] "Uncaught SyntaxError: Unexpected token )", source:  (20)
+[0206/101103:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),20", source: about:docKey-16 (0)
+[0206/101103:INFO:CONSOLE(20)] "Uncaught SyntaxError: Unexpected token )", source:  (20)
+[0206/101108:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),4", source: about:docKey-17 (0)
+[0206/101108:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token )", source:  (4)
+[0206/101108:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),4", source: about:docKey-18 (0)
+[0206/101108:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token )", source:  (4)
+[0206/101112:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),4", source: about:docKey-19 (0)
+[0206/101112:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token )", source:  (4)
+[0206/101113:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),20", source: about:docKey-20 (0)
+[0206/101113:INFO:CONSOLE(20)] "Uncaught SyntaxError: Unexpected token )", source:  (20)
+[0206/101120:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),20", source: about:docKey-21 (0)
+[0206/101120:INFO:CONSOLE(20)] "Uncaught SyntaxError: Unexpected token )", source:  (20)
+[0206/101122:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),4", source: about:docKey-22 (0)
+[0206/101122:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token )", source:  (4)
+[0206/101123:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),4", source: about:docKey-23 (0)
+[0206/101123:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token )", source:  (4)
+[0206/101135:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ;,4", source: about:docKey-24 (0)
+[0206/101135:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token ;", source:  (4)
+[0206/101157:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),4", source: about:docKey-28 (0)
+[0206/101157:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token )", source:  (4)
+[0206/101157:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),4", source: about:docKey-29 (0)
+[0206/101157:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token )", source:  (4)
+[0206/101227:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),4", source: about:docKey-33 (0)
+[0206/101227:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token )", source:  (4)
+[0206/101236:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected string,4", source: about:docKey-35 (0)
+[0206/101236:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected string", source:  (4)
+[0206/101237:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected identifier,4", source: about:docKey-36 (0)
+[0206/101237:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected identifier", source:  (4)
+[0206/101238:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected string,4", source: about:docKey-37 (0)
+[0206/101238:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected string", source:  (4)
+[0206/101251:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected identifier,4", source: about:docKey-38 (0)
+[0206/101251:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected identifier", source:  (4)
+[0206/101300:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected identifier,4", source: about:docKey-39 (0)
+[0206/101300:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected identifier", source:  (4)
+[0206/101301:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected identifier,4", source: about:docKey-40 (0)
+[0206/101301:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected identifier", source:  (4)
+[0206/101301:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected string,4", source: about:docKey-41 (0)
+[0206/101301:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected string", source:  (4)
+[0206/101302:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected string,4", source: about:docKey-42 (0)
+[0206/101302:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected string", source:  (4)
+[0206/101303:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ),4", source: about:docKey-44 (0)
+[0206/101303:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token )", source:  (4)
+[0206/101318:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected identifier,4", source: about:docKey-51 (0)
+[0206/101318:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected identifier", source:  (4)
+[0207/110433:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[0207/110433:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0207/110433:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0207/110443:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0207/110444:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0207/110444:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0207/110444:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0207/110446:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0207/110446:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0207/110821:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0207/110943:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[0207/110943:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0207/110943:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0207/110954:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0207/110954:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0207/110954:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0207/110954:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0207/110955:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0207/110955:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)

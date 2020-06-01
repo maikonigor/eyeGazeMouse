@@ -1,0 +1,18 @@
+<components>
+    <!-- Components for preprocessing before calculating the gaze -->
+    <pre>
+        <component>AnchorPointSelector</component>
+        <component>PointTracker</component>
+        <component>EyeExtractor</component>
+    </pre>
+    <!-- Gaze estimation components -->
+    <gaze>
+        <component>GazeTracker</component>
+    </gaze>
+    <!-- Components using gaze estimation -->
+    <post>
+        
+		<component>MoveMouse</component>
+		<component>Scroll</component>
+    </post>
+</components>

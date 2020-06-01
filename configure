@@ -1,0 +1,10 @@
+#!/bin/bash
+UNAME=$(uname)
+
+if [ $UNAME = "Linux" ]; then
+	qmake opengazer.pro
+fi
+
+if [ $UNAME = "Darwin" ]; then
+	qmake -spec macx-g++ opengazer.pro
+fi
